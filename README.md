@@ -15,7 +15,7 @@ r_code/: R scripts implementing the analytical workflow and generating the figur
 data/: Sector-level datasets organised by city.
 - data/<city>/lu/<sector>/*.csv: City-level sectoral data used in the analysis.
 
-## Usage
+## How to use
 1. Clone this repository to your local machine.
 2. Ensure that `R` and the required `R` packages are installed.
 3. Run the scripts in the `r_code/` directory to reproduce the analysis.
