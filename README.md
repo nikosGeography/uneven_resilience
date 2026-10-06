@@ -23,3 +23,4 @@ data/: Sector-level datasets organised by city.
 
 ## Citation
 If you use the data or code from this repository in your research, please cite the associated paper:
+Tziokas, N., Zhang, C., Tziokas, A. et al. Uneven urban resilience across economic sectors revealed by satellite nighttime lights. Commun Earth Environ (2026). https://doi.org/10.1038/s43247-026-03990-2
